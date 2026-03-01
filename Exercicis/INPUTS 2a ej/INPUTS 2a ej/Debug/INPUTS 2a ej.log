@@ -1,0 +1,3 @@
+﻿  INPUTS 2a ej.cpp
+C:\Users\Gerard\Desktop\ESTUDIOS\UNI\INFORMATICA\1r\Q2\PRO\INPUTS 2a ej\INPUTS 2a ej\INPUTS 2a ej.cpp(25,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  INPUTS 2a ej.vcxproj -> C:\Users\Gerard\Desktop\ESTUDIOS\UNI\INFORMATICA\1r\Q2\PRO\INPUTS 2a ej\Debug\INPUTS 2a ej.exe
