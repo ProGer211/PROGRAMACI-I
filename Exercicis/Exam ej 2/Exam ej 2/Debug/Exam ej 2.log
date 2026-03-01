@@ -1,0 +1,4 @@
+﻿  Exam ej 2.cpp
+C:\Users\Gerard\Desktop\ESTUDIOS\UNI\INFORMATICA\1r\Q2\PRO\Exam ej 2\Exam ej 2\Exam ej 2.cpp(11,16): warning C4101: 'result': variable local sin referencia
+C:\Users\Gerard\Desktop\ESTUDIOS\UNI\INFORMATICA\1r\Q2\PRO\Exam ej 2\Exam ej 2\Exam ej 2.cpp(36): warning C4715: 'maximumDigit': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Gerard\Desktop\ESTUDIOS\UNI\INFORMATICA\1r\Q2\PRO\Exam ej 2\Exam ej 2\Exam ej 2.cpp(14): error C4700: se utilizó la variable local 'x' sin inicializar

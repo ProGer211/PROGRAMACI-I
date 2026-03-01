@@ -1,0 +1,3 @@
+﻿  INPUTS.cpp
+C:\Users\Gerard\Desktop\ESTUDIOS\UNI\INFORMATICA\1r\Q2\PRO\INPUTS\INPUTS\INPUTS.cpp(35,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  INPUTS.vcxproj -> C:\Users\Gerard\Desktop\ESTUDIOS\UNI\INFORMATICA\1r\Q2\PRO\INPUTS\Debug\INPUTS.exe
