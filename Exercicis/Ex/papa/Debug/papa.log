@@ -1,0 +1,3 @@
+﻿  papa.cpp
+C:\Users\Gerard\Desktop\ESTUDIOS\UNI\INFORMATICA\1r\Q2\PRO\papa\papa\papa.cpp(14,37): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  papa.vcxproj -> C:\Users\Gerard\Desktop\ESTUDIOS\UNI\INFORMATICA\1r\Q2\PRO\papa\Debug\papa.exe
