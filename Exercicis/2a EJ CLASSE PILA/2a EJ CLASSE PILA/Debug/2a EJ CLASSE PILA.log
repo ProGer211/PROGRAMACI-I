@@ -1,0 +1,10 @@
+﻿  2a EJ CLASSE PILA.cpp
+C:\Users\Gerard\Desktop\ESTUDIOS\UNI\INFORMATICA\1r\Q2\PRO\2a EJ CLASSE PILA\2a EJ CLASSE PILA\stack.hpp(152,1): error C2440: 'return': no se puede realizar la conversión de 'T' a 'int'
+          with
+          [
+              T=Container
+          ]
+C:\Users\Gerard\Desktop\ESTUDIOS\UNI\INFORMATICA\1r\Q2\PRO\2a EJ CLASSE PILA\2a EJ CLASSE PILA\stack.hpp(152,26): message : No hay disponible ningún operador de conversión definido por el usuario que pueda realizar esta conversión, o bien no se puede llamar al operador
+C:\Users\Gerard\Desktop\ESTUDIOS\UNI\INFORMATICA\1r\Q2\PRO\2a EJ CLASSE PILA\2a EJ CLASSE PILA\stack.hpp(141): message : al compilar la función del miembro clase plantilla "int Stack<Container>::orden(void)"
+C:\Users\Gerard\Desktop\ESTUDIOS\UNI\INFORMATICA\1r\Q2\PRO\2a EJ CLASSE PILA\2a EJ CLASSE PILA\2a EJ CLASSE PILA.cpp(48): message : Vea la referencia a la creación de una instancia de la función plantilla "int Stack<Container>::orden(void)" que se está compilando
+C:\Users\Gerard\Desktop\ESTUDIOS\UNI\INFORMATICA\1r\Q2\PRO\2a EJ CLASSE PILA\2a EJ CLASSE PILA\2a EJ CLASSE PILA.cpp(30): message : Vea la referencia a la creación de una instancia de clase plantilla "Stack<Container>" que se está compilando
